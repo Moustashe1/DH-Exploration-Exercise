@@ -1,0 +1,1862 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/march-3-1856-march-2-1857" />
+<link rel="shortlink" href="/node/40" />
+  <title>REPORTS OF THE SELECTMEN, AND OTHER OFFICERS, OF THE TOWN OF CONCORD, FROM MARCH 3, 1856, TO MARCH 2, 1857 | digitalconcord.tamu.edu</title>
+  <style type="text/css" media="all">
+@import url("https://digitalconcord.tamu.edu/modules/system/system.base.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/system/system.menus.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/system/system.messages.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/system/system.theme.css?qby4xr");
+</style>
+<style type="text/css" media="all">
+@import url("https://digitalconcord.tamu.edu/modules/book/book.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/comment/comment.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/field/theme/field.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/node/node.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/search/search.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/modules/user/user.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/sites/all/modules/views/css/views.css?qby4xr");
+</style>
+<style type="text/css" media="all">
+@import url("https://digitalconcord.tamu.edu/sites/all/modules/ctools/css/ctools.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/sites/all/modules/cas/cas.css?qby4xr");
+</style>
+<style type="text/css" media="all">
+@import url("https://digitalconcord.tamu.edu/sites/all/themes/corporateclean/style.css?qby4xr");
+@import url("https://digitalconcord.tamu.edu/sites/default/files/color/corporateclean-a0407006/colors.css?qby4xr");
+</style>
+  <script type="text/javascript" src="https://digitalconcord.tamu.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/misc/drupal.js?qby4xr"></script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/sites/all/themes/corporateclean/js/jquery.cycle.all.js?qby4xr"></script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/sites/all/modules/google_analytics/googleanalytics.js?qby4xr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-44925295-6", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://digitalconcord.tamu.edu/sites/all/modules/cas/cas.js?qby4xr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+	$(window).load(function() {
+	
+		$("#slideshow img").show();
+		$("#slideshow").fadeIn("slow");
+		$("#slider-controls-wrapper").fadeIn("slow");
+
+		$("#slideshow").cycle({
+			fx:    "scrollHorz",
+			speed:  "slow",
+			timeout: "10000",
+			random: 0,
+			nowrap: 0,
+			pause: 0,
+			pager:  "#slider-navigation",
+			pagerAnchorBuilder: function(idx, slide) {
+				return "#slider-navigation li:eq(" + (idx) + ") a";
+			},
+			after: onAfter
+		});
+	});
+	
+	function onAfter(curr, next, opts, fwd){
+		var $ht = $(this).height();
+		$(this).parent().animate({height: $ht});
+	}
+
+	});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"corporateclean","theme_token":"bOshCCAMvcHq6lSYxSKUSxteQAocQlrbD7KUBxq2Le4","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/corporateclean\/js\/jquery.cycle.all.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/cas\/cas.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/cas\/cas.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/content\/march-3-1856-march-2-1857?destination=node\/40":true,"\/content\/march-3-1856-march-2-1857":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-40 node-type-texts" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left">
+            
+                        <a href="/" title="Home"><img src="https://digitalconcord.tamu.edu/sites/default/files/headers-2_2.jpg" alt="Home" /></a>
+                 
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->
+        <div id="header-inside-right">
+		    
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+
+    <!-- #header-menu-inside -->
+    <div id="header-menu-inside">
+    
+        <div id="navigation" class="clearfix">
+        <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="expanded"><a href="/maps" title="Maps">Maps</a><ul class="menu"><li class="first leaf"><a href="/content/contemporary-map">Contemporary Concord Map</a></li>
+<li class="last leaf"><a href="/content/overlay">Google Map Overlay</a></li>
+</ul></li>
+<li class="expanded"><a href="/texts" title="Texts">Texts</a><ul class="menu"><li class="first leaf"><a href="/content/literary-texts">Literary Texts</a></li>
+<li class="last leaf"><a href="/content/town-reports">Town Reports</a></li>
+</ul></li>
+<li class="leaf"><a href="/news" title="News">News</a></li>
+<li class="expanded"><a href="/about" title="About DigitalConcord">About</a><ul class="menu"><li class="first leaf"><a href="/content/project-overview">Project Overview</a></li>
+<li class="leaf"><a href="/people" title="People">People</a></li>
+<li class="leaf"><a href="/publications" title="Publications">Publications</a></li>
+<li class="leaf"><a href="/presentations" title="Presentations">Presentations</a></li>
+<li class="leaf"><a href="/content/grants">Grants</a></li>
+<li class="last leaf"><a href="/content/related-sites">Related Sites</a></li>
+</ul></li>
+<li class="last leaf"><a href="/contact" title="Contact Us">Contact Us</a></li>
+</ul>        </div>
+
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside">
+    
+    	  
+    
+        <!-- #main -->
+        <div id="main">
+            
+                        
+                   
+                 
+                        
+                        
+			                        <h1>REPORTS OF THE SELECTMEN, AND OTHER OFFICERS, OF THE TOWN OF CONCORD, FROM MARCH 3, 1856, TO MARCH 2, 1857</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-40" class="node node-texts" about="/content/march-3-1856-march-2-1857" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="REPORTS OF THE SELECTMEN, AND OTHER OFFICERS, OF THE TOWN OF CONCORD, FROM MARCH 3, 1856, TO MARCH 2, 1857" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><hr />
+TEI: <a href="http://idhmcmain.tamu.edu/image-store/digitalconcord/1857.xml" target="_blank"><u>Click here to access a fully encoded XML version of this text.</u></a><br />
+Original Image: <a href="http://www.cfplspec.org/CFPL/anteBellumDocs/reports/pages/1857/selectmen/page_01.html"><u>Click here to access Reports of the Selectmen, and Other Officers, of the Town of Concord, from March 3, 1856 to March 2, 1857.</u></a><br />
+Original Image: <a href="http://www.cfplspec.org/CFPL/anteBellumDocs/reports/pages/1857/schoolCommittee/page_01.html"><u>Click here to access Annual Reports of the School Committee and of the Superintendent of Public Schools, of Concord, for the Year ending April 1, 1857.</u></a>
+<hr /><?xml version="1.0" encoding="UTF-8"??><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="author" content="Various" /><meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets" /><meta name="DC.Title" content="Reports of the Selectment, and other Officers of the Town of Concord, From March 3, 1856, to March 2, 1857" /><meta name="DC.Type" content="Text" /><meta name="DC.Format" content="text/html" /><br /><link href="http://www.tei-c.org/release/xml/tei/stylesheet/tei.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" media="print" type="text/css" href="http://www.tei-c.org/release/xml/tei/stylesheet/tei-print.css" /><br /><div class="stdheader"></div>
+<h2> REPORTS OF THE SELECTMEN, AND OTHER OFFICERS, OF THE TOWN OF CONCORD, FROM MARCH<br />
+                3, 1856, TO MARCH 2, 1857. </h2>
+<h3>BENJAMIN TOLMAN, PRINTER.</h3>
+<h3>1857.</h3>
+<h3>Table of contents</h3>
+<ul class="toc toc_body"><li class="toc"><span class="headingNumber">1. </span><a href="#index.xml-body.1_div.1" class="toc toc_0">SELECTMEN'S REPORT.</a></li>
+<li class="toc"><span class="headingNumber">2. </span><a href="#index.xml-body.1_div.2" class="toc toc_0">STATE OF THE TREASURY, MARCH 2, 1857.</a></li>
+<li class="toc"><span class="headingNumber">3. </span><a href="#index.xml-body.1_div.3" class="toc toc_0"> APPROPRIATIONS AND RECEIPTS. </a></li>
+<li class="toc"><span class="headingNumber">4. </span><a href="#index.xml-body.1_div.4" class="toc toc_0"> EXPENDITURES. </a></li>
+<li class="toc"><span class="headingNumber">5. </span><a href="#index.xml-body.1_div.5" class="toc toc_0">TABULAR STATEMENT OF RECEIPTS AND EXPENDITURES, From March 3,<br />
+                    1856, to March 2, 1857.</a></li>
+<li class="toc"><span class="headingNumber">6. </span><a href="#index.xml-body.1_div.6" class="toc toc_0"> FIFTH ANNUAL REPORT OF THE TOWN LIBRARY COMMITTEE.</a></li>
+<li class="toc"><span class="headingNumber">7. </span><a href="#index.xml-body.1_div.7" class="toc toc_0">REPORT OF THE SUPERINTENDENT OF PUBLIC GROUNDS.</a></li>
+<li class="toc"><span class="headingNumber">8. </span><a href="#index.xml-body.1_div.8" class="toc toc_0">REPORT OF THE OVERSEERS OF THE POOR. </a></li>
+<li class="toc"><span class="headingNumber">9. </span><a href="#index.xml-body.1_div.9" class="toc toc_0">MARRIAGES, BIRTHS AND DEATHS IN CONCORD, IN 1856.</a></li>
+<li class="toc"><span class="headingNumber">10. </span><a href="#index.xml-body.1_div.10" class="toc toc_0">ANNUAL REPORTS OF THE SCHOOL COMMITTEE, AND OF THE SUPERINTENDENT OF PUBLIC<br />
+                    SCHOOLS, OF CONCORD, FOR THE YEAR ENDING APRIL 1, 1857.</a></li>
+</ul><div class="teidiv0" id="index.xml-body.1_div.1">
+<h2><span class="headingNumber">1. </span><span class="head">SELECTMEN'S REPORT.</span></h2>
+<p>The Selectmen herewith submit the following Report of the Receipts and<br />
+                    Expenditures of the town for the year 1856-7:</p>
+<p>It will be seen by the Report, that, in the exhibit of repairs of highways, a<br />
+                    deficiency now exists, the same arising from the payment made for breaking out<br />
+                    the roads in 1856. The drifting snows of the present winter have caused an<br />
+                    additional expense, which will have to be provided for by an appropriation. </p>
+<p>The note of $1000, due to the Middlesex Institution for Savings, on account of<br />
+                    the purchase of the Cemetery lot, was paid without any specific appropriation,<br />
+                    and the Selectmen recommend that the same should be raised under an<br />
+                    appropriation for general deficiencies. </p>
+<p>The town voted, at the last March meeting, to purchase 300 feet of hose for<br />
+                    Engine No. 1. An extra appropriation for that object will be required, which the<br />
+                    Selectmen recommend. </p>
+<div class="p">They recommend to the town the appropriation of the following sums for the<br />
+                    ensuing year:
+<ul><li class="item">For the Support of Schools, $3000</li>
+<li class="item"> Principal and Interest on Town Debt, 1960</li>
+<li class="item">Repairs of Highways, 1000</li>
+<li class="item">Support of Poor, 700</li>
+<li class="item">Repairs of Bridges, 300</li>
+<li class="item">Fire Department and purchase of hose, 600</li>
+<li class="item">Town Library, 142</li>
+<li class="item">Improvement of Public Grounds, 150</li>
+<li class="item">General Deficiencies, 1600</li>
+<li class="item">General Expenses, 1000</li>
+</ul></div>
+<p> A committee have been chosen to report upon the probable expense of repairs of<br />
+                    the School-house in District No. 7, and a suitable appropriation should be made<br />
+                    for that purpose. </p>
+<p>GEORGE M. BROOKS, JOEL W. WALCOTT, SAMUEL STAPLES, Selectmen of Concord.</p>
+<p>
+                    <em>March</em> 2, 1857.</p>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.2">
+<h2><span class="headingNumber">2. </span><span class="head">STATE OF THE TREASURY, MARCH 2, 1857.</span></h2>
+<p>----</p>
+<p>RECEIPTS.</p>
+<div class="p">
+<ul><li class="item">Balance of tax of 1853, due from A. Stacy, $67 19</li>
+<li class="item">" " of 1855, 1483 54</li>
+<li class="item">Of Commonwealth, Military Bounty, 433 50</li>
+<li class="item">" " Census and Statistics of Industry, 73 00</li>
+<li class="item"> " " School Fund, 89 31</li>
+<li class="item"> " " Pauper Account, 4 00</li>
+<li class="item">" Trustees Cummings and Beaton Funds, 95 94</li>
+<li class="item">" sundry persons for lots sold in Cemetery, 497 00</li>
+<li class="item"> " " " " grass and wood sold in Cemetery lot, 72 99</li>
+<li class="item">Of sundry persons, donations for trees in Cemetery lot, 11 71</li>
+<li class="item">Of town of Lincoln, for District No. 2, 8 72</li>
+<li class="item">For Licenses of Circus, "380026"c., 7 50</li>
+<li class="item">" old bridge plank and benches sold, 8 87</li>
+<li class="item">" Poll taxes of 1855, and Map sold, 4 56</li>
+<li class="item">Of Selectmen, rent of Town Hall, 284 75</li>
+<li class="item">Town, County and State Tax for 1856, 14,642 44</li>
+<li class="item">---$17,785 02</li>
+</ul></div>
+<p>----</p>
+<p>PAYMENTS.</p>
+<ul><li class="item">Sundry orders on Treasury paid, $15,520 91</li>
+<li class="item">----</li>
+<li class="item">Cash in treasury and balance due from A. Stacy, $2264 11</li>
+</ul><p>JOSEPH HOLBROOK, <em>Treasurer</em>.</p>
+<p>March 2, 1857.</p>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.3">
+<h2><span class="headingNumber">3. </span><span class="head"> APPROPRIATIONS AND RECEIPTS. </span></h2>
+<p>----</p>
+<p>APPROPRIATIONS.</p>
+<ul><li class="item">For Support of Schools, $3500 00</li>
+<li class="item">" Payment of Town House debt and interest, 2020 00</li>
+<li class="item">" Building School House in Dist. No. 3, 1900 00</li>
+<li class="item">" Repairs of Highways, 1000 00</li>
+<li class="item">" General Expenses, 1400 00</li>
+<li class="item">" Support of Poor, 700 00</li>
+<li class="item">" Fire Department, 350 00</li>
+<li class="item">" Repairs of Bridges, 300 00</li>
+<li class="item"> " Town Library, 150 00</li>
+<li class="item"> " Improvement of Public Grounds, 150 00</li>
+<li class="item">" Payment of Interest on Cemetery debt, 120 00</li>
+<li class="item">" Purposes of Cemetery, 130 00</li>
+<li class="item">" State Tax, 1284 00</li>
+<li class="item"> " County Tax, 1254 03</li>
+<li class="item">---$14,258 03</li>
+</ul><p>----</p>
+<p>RECEIPTS FROM OTHER SOURCES.</p>
+<div class="p">
+<ul><li class="item">Overlay on Taxes, $384 41</li>
+<li class="item">Rent of Town Hall, 284 75</li>
+<li class="item">Commonwealth, Military Bounty, 433 50</li>
+<li class="item">" Census and Statistics of Industry, 73 00</li>
+<li class="item">" School Fund, 89 31</li>
+<li class="item">" Pauper Account, 4 00</li>
+<li class="item">Income of Silent Poor Donations, 178 84</li>
+<li class="item">" Cummings and Beaton Funds, 95 94</li>
+<li class="item">Sundry persons Cemetery lots, 497 00</li>
+<li class="item">" " grass "380026" wood sold in Cemetery lot, 72 99</li>
+<li class="item">Sundry donations for trees, 11 71</li>
+<li class="item">Town of Lincoln for District No. 2, 8 72</li>
+<li class="item">Licenses of Circus, "380026"c., 7 50</li>
+<li class="item">Sale of old bridge plank, benches, "380026"c., 8 87</li>
+<li class="item"> " " Town Map, 1 00</li>
+<li class="item">Received for Poll Taxes of 1855, 3 56</li>
+<li class="item">---$2155 10</li>
+<li class="item">----</li>
+<li class="item">$16,413 13</li>
+</ul></div>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.4">
+<h2><span class="headingNumber">4. </span><span class="head"> EXPENDITURES. </span></h2>
+<p>----</p>
+<p>SUPPORT OF SCHOOLS.</p>
+<p>The money for the support of Schools has been apportioned among the several<br />
+                    Districts according to the basis established by the town in 1849, and the<br />
+                    following table exhibits the amount belonging to each: </p>
+<div class="p">
+<ul><li class="item">Appropriation for 1856-7, $2800 00</li>
+<li class="item">" " High School and deficiency in Centre District, 700 00</li>
+<li class="item">Income Beaton and Cummings Donations, 95 94</li>
+<li class="item">" State School Fund, 89 31</li>
+<li class="item">Payment by Town of Lincoln to District No. 2, 8 72</li>
+<li class="item">-----$3693 97</li>
+</ul></div>
+<p>TABLE OF DIVISION.</p>
+<div class="p">
+<ul><li class="item">Dist. No. 1--51 per cent. and $700.00, $2222 48</li>
+<li class="item">" No. 2--8 7-12 " and $8.72, 264 95</li>
+<li class="item">" No. 3--7 3-4 " 231 35</li>
+<li class="item">" No. 4--10 2-12 " 303 50</li>
+<li class="item">" No. 5--8 1-4 " 246 29</li>
+<li class="item"> " No. 6--7 1-8 " 212 70</li>
+<li class="item">" No. 7--7 1-8 " 212 70</li>
+<li class="item">---$3693 97</li>
+</ul></div>
+<p>----</p>
+<p>ACCOUNT WITH THE SEVERAL DISTRICTS.</p>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 1.</span>
+<ul><li class="item">Balance in Treasury, March, 1856, $492 13</li>
+<li class="item">Appropriation, "380026"c., 2222 48</li>
+<li class="item">---$2714 61</li>
+<li class="item">Paid Henry Chase. for teaching High School, $545 45</li>
+<li class="item">Sarah C. Buttrick, " Intermediate, 150 00</li>
+<li class="item">Susan Heard, " N. Primary, 112 50</li>
+<li class="item">Harriette Buttrick, " E. Primary, 112 50</li>
+<li class="item">Maria D. Hosmer, " W. Primary, 110 25</li>
+<li class="item">John Brown, Jr., Prudential Committee, fuel, care of rooms,<br />
+                            "380026"c., 88 42</li>
+<li class="item">John Garrison, care of School-rooms, 77 00</li>
+<li class="item">Proportion of fuel, "380026"c., charged to District, 81 00</li>
+<li class="item">---$1277 12</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $1437 49</li>
+</ul></div>
+<p>7</p>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 2.</span>
+<ul><li class="item"> Balance in Treasury, March, 1856, $261 41</li>
+<li class="item">Appropriation, "380026"c., 264 95</li>
+<li class="item"> ---$526 36</li>
+<li class="item">Paid Eliza Hosmer, for teaching, $200 00</li>
+<li class="item">Thomas M. Balcolm, for fuel, 13 02</li>
+<li class="item"> Darius J. Hatch, Prudential Committee, care of house, brooms,<br />
+                            "380026"c., 13 75</li>
+<li class="item">---$226 77</li>
+<li class="item">----</li>
+<li class="item"> Unexpended balance, $299 59</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 3. </span>
+<ul><li class="item"> Balance in Treasury, March, 1856, $190 96</li>
+<li class="item">Appropriation, 231 35</li>
+<li class="item"> ---$422 31</li>
+<li class="item">Paid Louisa B. Hunt, for teaching, $203 50</li>
+<li class="item">Marshall Miles, Prudential Committee, care of rooms, 8 50</li>
+<li class="item">J. B. Garfield, fuel, 5 00</li>
+<li class="item">Edwin Wheeler, fuel, 26 00</li>
+<li class="item">H. K. Tozier, Prudential Committee, care of house, pails, brooms,<br />
+                            "380026"c., 9 80</li>
+<li class="item">---$252 80 </li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $169 51</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 4. </span>
+<ul><li class="item">Balance in Treasury, March, 1856, $307 49</li>
+<li class="item">Appropriation, 303 50</li>
+<li class="item">---$6110 99</li>
+<li class="item">Paid Elizabeth Parmenter, for teaching, $66 50</li>
+<li class="item">Joseph Derby, board of Miss Parmenter, 47 50</li>
+<li class="item">Joseph Derby, Jr., Prudential Committee, care of House, "380026"c., 7<br />
+                            72</li>
+<li class="item">Maria Wetherbee, teaching, 115 50</li>
+<li class="item">Samuel Lees, fuel, care of room, "380026"c., 36 80</li>
+<li class="item">J. C. Richardson, his proportion of school money belonging to Acton<br />
+                            for yrs. '55-6, 9 85</li>
+<li class="item">James P. Brown, fuel, 28 75</li>
+<li class="item">---$312 62</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $298 37</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 5.</span>
+<ul><li class="item">Balance in Treasury, March, 1856, $110 24</li>
+<li class="item">Appropriation, 246 29 </li>
+<li class="item">---$356 53</li>
+</ul></div>
+<p>8</p>
+<div class="p">
+<ul><li class="item">Paid Mary H. Wood, for teaching, $72 00 $356 53</li>
+<li class="item">Ellen Farmer, " 18 00</li>
+<li class="item">James O. Seripture, " 140 00</li>
+<li class="item">Jacob B. Farmer, Prudential Committee, cutting wood, care of house,<br />
+                            cleaning clock, "380026"c., 13 57</li>
+<li class="item">---$243 57</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $112 96</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 6. </span>
+<ul><li class="item">Balance in Treasury, March, 1856, $185 65</li>
+<li class="item">Appropriation, 212 70</li>
+<li class="item">---$398 35</li>
+<li class="item">Paid Kate B. West, for teaching, $90 00</li>
+<li class="item">Sarah J. Wetherbee, " 70 00</li>
+<li class="item">James Wood, for making fires, "380026"c., 5 44</li>
+<li class="item">W. Melvin, fuel, 19 96</li>
+<li class="item">H. W. Jones, P. Com., care of rooms, "380026"c., 5 59</li>
+<li class="item">Lewis Wetherbee, for brooms, washing, "380026"c., 2 25</li>
+<li class="item">---$193 24</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $205 11</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead"><em>District No.</em> 7. </span>
+<ul><li class="item">Balance in Treasury, March, 1856, $90 08</li>
+<li class="item">Appropriation, 212 70</li>
+<li class="item">---$302 78</li>
+<li class="item">Paid Jane Hosmer, for teaching, $178 50</li>
+<li class="item">Charles H. Dakin, Prud. Committee, fuel, brooms, care of room,<br />
+                            "380026"c., 18 20</li>
+<li class="item">Nathan Barrett, wood and care of rooms, 5 45</li>
+<li class="item">---$202 15</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $100 63</li>
+<li class="item">Total balance in Treasury, March, 1856, $1637 96</li>
+<li class="item">Total Appropriation, "380026"c., 3693 97</li>
+<li class="item">----</li>
+<li class="item">$5331 93</li>
+<li class="item">Total expenditures in all the Districts, $2708 27</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $2623 66</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">PAYMENT OF TOWN HOUSE DEBT. </span>
+<ul><li class="item">Appropriation, $2020 00</li>
+<li class="item">Paid Middlesex Institution for Savings, 2020 00</li>
+<li class="item">----</li>
+<li class="item">Town House Debt, January 1, 1857, $16,000 00</li>
+</ul></div>
+<p>9</p>
+<div class="p">
+                    <span class="listhead">BUILDING SCHOOL HOUSE IN DISTRICT NO. 3</span>
+<ul><li class="item">Appropriation, $1900 00</li>
+<li class="item">Paid Joseph Miles, Building Committee, $100 00</li>
+<li class="item">" " " " 1506 57</li>
+<li class="item">" " " " 300 00</li>
+<li class="item">---$1906 57</li>
+<li class="item">----</li>
+<li class="item">Deficiency, $6 57</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">REPAIRS OF HIGHWAYS.</span>
+<ul><li class="item">Unexpended balance, $87 16</li>
+<li class="item">Appropriation, 1000 00</li>
+<li class="item">---$1087 16</li>
+<li class="item">Apportioned as follows:</li>
+<li class="item">District No. 1, and balance, $291 10</li>
+<li class="item"> " No. 2, " 105 00</li>
+<li class="item">" No. 3, " 131 88</li>
+<li class="item">" No. 4, " 135 66</li>
+<li class="item"> " No. 5, 85 00</li>
+<li class="item">" No. 6, and balance, 170 00</li>
+<li class="item">" No. 7, " 121 52</li>
+<li class="item"> " No. 8, " 47 00</li>
+<li class="item">---$1087 16</li>
+<li class="item">Paid Highway Surveyor, District No. 1, $263 10</li>
+<li class="item">" " " " No. 2, 141 41</li>
+<li class="item"> " " " " No. 3, 213 87</li>
+<li class="item">" " " " No. 4, 105 85</li>
+<li class="item"> " " " " No. 5, 134 26</li>
+<li class="item"> " " " " No. 6, 276 37</li>
+<li class="item">" " " " No. 7, 169 72</li>
+<li class="item">" " " " No. 8, 85 47</li>
+<li class="item"> ---$1390 05</li>
+<li class="item">----</li>
+<li class="item"> Deficiency, $302 80</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">SUPPORT OF POOR. </span>
+<ul><li class="item">Appropriation, $700 00</li>
+<li class="item">State Pauper account, 4 00</li>
+<li class="item">---$704 00</li>
+<li class="item">Paid Overseers of Poor, $50 00</li>
+<li class="item"> " " " 100 00</li>
+<li class="item"> " " " 100 00</li>
+<li class="item"> " " " 200 00</li>
+<li class="item"> " " " 150 00</li>
+<li class="item"> ---$600 00</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $104 00</li>
+</ul></div>
+<p> 2</p>
+<p> 10</p>
+<div class="p">
+                    <span class="listhead">SILENT POOR.</span>
+<ul><li class="item">Income from Donations, $178 84</li>
+<li class="item"> Unexpended balance last year, 11 82</li>
+<li class="item">---$190 66M</li>
+<li class="item">Paid sundry persons as appears by Selectmen's book, 173 00</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $17 66</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead"> FIRE DEPARTMENT.</span>
+<ul><li class="item"> Balance in Treasury, March, 1856, $61 10</li>
+<li class="item">Appropriation, 350 00</li>
+<li class="item"> ---$411 10</li>
+<li class="item">Paid George Heywood, Chief Engineer, 216 39</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $194 71</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">TOWN LIBRARY. </span>
+<ul><li class="item">Appropriation, $150 00</li>
+<li class="item">Paid E. R. Hoar, Chairman Library Committee, 150 00</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">IMPROVEMENT OF PUBLIC GROUNDS.</span>
+<ul><li class="item"> Appropriation, $150 00</li>
+<li class="item"> Paid John S. Keyes, Superintendent, 150 00</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">CEMETERY. </span>
+<ul><li class="item"> Appropriation for payment of Interest on Debt, $120 00</li>
+<li class="item">" " purposes of Cemetery, 130 00</li>
+<li class="item"> Received of sundry persons for deeds of lots, 497 00</li>
+<li class="item">" " " for grass "380026" wood, 72 99</li>
+<li class="item">" " " donations for trees, 11 71</li>
+<li class="item">---$831 70</li>
+<li class="item">Paid Deficiency last year, $436 30</li>
+<li class="item">Interest on Debt, 125 00</li>
+<li class="item">Michael Flannery, work on Cemetery, 70 74</li>
+<li class="item">Anthony Wright, " " 24 87</li>
+<li class="item">J. Holbrook, trees purchased, 36 62</li>
+<li class="item">J. Holbrook, labor and team, 50 83</li>
+<li class="item">W. Whiting, lettering and regulations, 15 00</li>
+<li class="item">for lettering tomb and moving wood, 4 00</li>
+<li class="item">---$763 36</li>
+<li class="item">----</li>
+<li class="item">Unexpended balance, $68 34</li>
+</ul></div>
+<p>11</p>
+<div class="p">
+                    <span class="listhead"> REPAIRS OF BRIDGES. </span>
+<ul><li class="item">Appropriation, $300 00</li>
+<li class="item">Sale of old plank, 5 37</li>
+<li class="item">---$305 37</li>
+<li class="item"> Paid P. Barrett, stone "380026" labor on bridge in '55, $80 50</li>
+<li class="item">Robert Cowdin's bill for plank, 182 74</li>
+<li class="item">S. Staples, journey to Boston to purchase do., 2 70</li>
+<li class="item">Horton, Hall "380026" Co., spikes, 9 00</li>
+<li class="item">Geo. L. Prescott, plank, 6 35</li>
+<li class="item">John H. Bent, timber for bridges, 16 67</li>
+<li class="item">J. C. Richardson, work on dry bridge, 2 27</li>
+<li class="item">Hobson "380026" Cousens, work on bridges, 31 00</li>
+<li class="item">W. D. Brown, repairs of Derby Bridge, 50</li>
+<li class="item">James Wood, repairs on bridge, 4 00</li>
+<li class="item">---$335 73</li>
+<li class="item"> Deficiency, $30 36</li>
+<li class="item">State Tax, $1284 00</li>
+<li class="item">County Tax, 1254 03</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead"> GENERAL EXPENSES.</span>
+<ul><li class="item">Unexpended balance, $489 75</li>
+<li class="item">Appropriation, 1400 00</li>
+<li class="item">Overlay on taxes, 384 41</li>
+<li class="item">Rent of Town Hall, 284 75</li>
+<li class="item">Commonwealth, Military Bounty, 433 50</li>
+<li class="item">" Census and Statistics Industry, 73 00</li>
+<li class="item">Licenses of Circus, "380026"c., 7 50</li>
+<li class="item">Sale of Town Map, 1 00</li>
+<li class="item">Poll Taxes of 1855, 3 56</li>
+<li class="item">Sale of old benches, 3 50</li>
+<li class="item">----$3080 97</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead"> EXPENSES OF TOWN HOUSE. </span>
+<ul><li class="item">Paid Geo. L. Prescott, 11 tons coal and carting, $97 50</li>
+<li class="item">John Garrison, care of School-rooms, 77 00</li>
+<li class="item">" " Hall and moving seats, 85 77</li>
+<li class="item">" " Library, "380026"c., 10 00</li>
+<li class="item">Walcott "380026" Holden, fluid, candles, "380026"c., 105 87</li>
+<li class="item">Wood, sawing and splitting, 24 50</li>
+<li class="item">Repairs on furnace, funnel, lamps, "380026"c., 17 93</li>
+<li class="item">Brooms, brushes, "380026"c., 5 17</li>
+<li class="item"> ---$423 74</li>
+<li class="item">Deduct amount charged Dist. No. 1 for fuel, care rooms, "380026"c.,<br />
+                            158 00</li>
+<li class="item">Leaves expense of Hall and Rooms, $265 74</li>
+</ul></div>
+<p>12</p>
+<div class="p">
+                    <span class="listhead">REPAIRS OF SCHOOL HOUSES. </span>
+<ul><li class="item">Paid John Brown, Jr., painting West Centre School-house, "380026"<br />
+                            repairs in Centre Dist., $50 87</li>
+<li class="item">Joshua R. Brown, painting and repairs in Dist. No. 2., 24 72</li>
+<li class="item">Julius M. Smith, painting blinds, "380026"c., in Dist. No. 2, 15<br />
+                            50</li>
+<li class="item">J. P. George, repairs in Dist. No. 5, 1 50</li>
+<li class="item">P. Whelan, stove and funnel in Dist. No. 6, 42 13</li>
+<li class="item">J. H. Dakin, repairs in Dist. No. 6, 2 25</li>
+<li class="item">P. Whelan, stove funnel, "380026"c., Dist. No. 7, 34 30</li>
+<li class="item">Nathan Barrett, repairs in Dist. No. 7, 3 88</li>
+<li class="item">---$175 15</li>
+</ul></div>
+<div class="p">
+                    <span class="listhead">MISCELLANEOUS. </span>
+<ul><li class="item">Paid Joseph Reynolds, balance salary as Supt. of Schools, $45<br />
+                            00</li>
+<li class="item">Alvan Pratt, keeping weights "380026" measures, 10 00</li>
+<li class="item">Benj. Tolman, printing Town Report, "380026"c., 51 25</li>
+<li class="item">Joseph Reynolds, on acct. Liquor Agency, 26 00</li>
+<li class="item">Samuel Staples, taking census in 1856, 37 00</li>
+<li class="item">Assessors of 1855-6, taking and return- ing Statistics of Industry, 36<br />
+                            00</li>
+<li class="item">Concord Artillery, amount granted by town, 100 00</li>
+<li class="item">Taxes on Town's land in Carlisle for 1855-6, 3 72</li>
+<li class="item">Concord Artillery, Military Bounty, 433 50</li>
+<li class="item">Anthony Wright, building road near Mrs. Hildrith's, 60 00</li>
+<li class="item">Richard Barrett, services as Assessor and making taxes, 90 00</li>
+<li class="item">Joseph Holbrook collecting tax of 1855, 141 94</li>
+<li class="item">" abatement on taxes, '55, 37 38</li>
+<li class="item">E. Wild, salary as Librarian to Jan. 1857, 25 00</li>
+<li class="item">Middlesex Institution for Savings, Note Cemetery Debt, 1000 00</li>
+<li class="item">C. E. Snell, lettering shelves for Library, 1 68</li>
+<li class="item">James Giles, lettering guide posts, 6 07</li>
+<li class="item">Interest on money borrowed in advance of revenue, 51 35</li>
+<li class="item">Albert Stacy, stationery for Town Officers, 20 63</li>
+<li class="item">Jonas Melvin, returns of deaths and services as Policeman, 10<br />
+                            57</li>
+<li class="item">John Hosmer, damage at dry bridge, 15 00</li>
+<li class="item">Powder for 19th of April salutes, 15 00</li>
+<li class="item">Asa C. Collier, cleaning and winding Town Clock to Feb. 1, 1857, 26<br />
+                            25</li>
+<li class="item">Geo. L. Prescott, services as Assessor, 47 61</li>
+<li class="item">Julius M. Smith, " " 40 00</li>
+</ul></div>
+<p>13</p>
+<div class="p">
+<ul><li class="item">Paid Selectmen, sundry small bills paid, 7 00</li>
+<li class="item">J. M. Billings, horse hire for Selectmen, viewing bridges, 5 00</li>
+<li class="item">Joseph Holbrook, collecting tax of 1856, 146 00</li>
+<li class="item">" services as Treasurer, 15 00</li>
+<li class="item">" posting warrants for Town Meetings, 1 00</li>
+<li class="item"> " sundry abatements of taxes of 1856, 51 55</li>
+<li class="item">Geo. Heywood, recording proceedings of Town Meetings, "380026"c., 15<br />
+                            00</li>
+<li class="item">do., recording and returning births, deaths, and marriages, 13<br />
+                            95</li>
+<li class="item">do., express, postage, "380026"c., 4 25</li>
+<li class="item">Heman Newton, entertainment Selectmen and Assessors, 45 75</li>
+<li class="item">Benj. Tolman, printing Town Warrants, returns of burials, "380026"c.,<br />
+                            16 25</li>
+<li class="item">Selectmen, making Report, 15 00</li>
+<li class="item">Jacob B. Farmer, setting 8 posts by new road, near Mrs. Hildreth's, 4<br />
+                            00</li>
+<li class="item">Selectmen, perambulating town lines, 16 00</li>
+<li class="item">Samuel Staples, for selling Cemetery grass and wood on town lot at P.<br />
+                            Blood's, 12 50</li>
+<li class="item">S. Staples, cash refunded for grass sold Sherman Barrett, in 1855,<br />
+                            which said Barrett refused to pay, 10 00</li>
+<li class="item"> ---$3150 09</li>
+<li class="item">Deficiency, $69 12</li>
+</ul></div>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.5">
+<h2><span class="headingNumber">5. </span><span class="head">TABULAR STATEMENT OF RECEIPTS AND EXPENDITURES, <em>From March</em> 3,<br />
+                    1856, <em>to March</em> 2, 1857.</span></h2>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">RECEIPTS.</span>
+<ul><li class="item"> Unexpended balance of appropriation, March 2, 1856, $948 91</li>
+<li class="item">Appropriation for various objects, 14,258 03</li>
+<li class="item">Receipts from other sources, 2155 10</li>
+<li class="item">---$17362 04</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">EXPENDITURES.</span>
+<ul><li class="item">Support of Schools, $2708 27</li>
+<li class="item">Payment of Town House debt and interest, 2020 00</li>
+<li class="item">Repairs of Highways, 1390 05</li>
+<li class="item">Building of School-house in District No. 3, 1906 57</li>
+<li class="item">Support of Poor, 600 00</li>
+<li class="item">Silent Poor, 173 00</li>
+<li class="item">Fire Department, 216 39</li>
+<li class="item">Town Library, 150 00</li>
+<li class="item">Improvement of Public Grounds, 150 00</li>
+<li class="item">Cemetery, 763 36</li>
+<li class="item">Repairs of Bridges, 335 73</li>
+<li class="item">State Tax, 1284 00</li>
+<li class="item">General Expenses, 3150 09</li>
+<li class="item">County Tax in part, 750 00</li>
+<li class="item">---$15,597 46</li>
+<li class="item">----</li>
+<li class="item">Unexpended balances, $1764 58</li>
+</ul></div>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.6">
+<h2><span class="headingNumber">6. </span><span class="head"> FIFTH ANNUAL REPORT OF THE TOWN LIBRARY COMMITTEE.</span></h2>
+<p>----</p>
+<p> The Library Committee present their Report for the year ending on the first<br />
+                    Monday in March, 1857.</p>
+<div class="p">
+<ul><li class="item">The amount of money received by them has been as follows:</li>
+<li class="item">The balance of last year's account, $60 00</li>
+<li class="item"> The Town's appropriation for 1856, 150 00</li>
+<li class="item">Fines collected by Librarian in 1856, 8 44</li>
+<li class="item">---$218 44</li>
+<li class="item"> The amount expended has been--</li>
+<li class="item">For 147 volumes purchased, $156 05</li>
+<li class="item">For covering and binding books and paper, 7 49</li>
+<li class="item">Leaving a balance unexpended of 54 90</li>
+<li class="item">---$218 44</li>
+</ul></div>
+<p> The number of volumes in the Library, as stated in our last Report, was 2074 ;<br />
+                    to which have been added during the year, by purchase, 147 ; by donation, 29 ;<br />
+                    making the whole number, 2,250. No book has been lost from the Library during<br />
+                    the past year. </p>
+<p> The number of ratable polls in Concord in the year 1856, was 569, and the<br />
+                    appropriation for the maintenance and increase of the Library, which the town is<br />
+                    allowed by law, and required by their contract to make this year, is<br />
+                    $142.25.</p>
+<p> The Librarian, Mr. Wild, has discharged the duties of his office faithfully and<br />
+                    acceptably ; and his intimate acquaintance with the Library, acquired in<br />
+                    arranging, numbering, and entering upon the catalogue all the books which it<br />
+                    contains, makes his services more valuable than those of any other person would<br />
+                    be, whom the Committee could probably engage. Considering his compensation<br />
+                    inadequate, he resigned the office at the annual examination in January ; but<br />
+                    the Committee assumed the responsibility of agreeing with him that if he would<br />
+                    remain to this time, he should be paid at the rate of fifty dollars a year.<br />
+                    Whether the town approve this arrangement, and whether they will authorize the<br />
+                    Committee to continue it, is for them to determine. The Committee think it, on<br />
+                    the whole, reasonable and proper. </p>
+<p> The popularity and usefulness of the Library, as a means of entertainment and<br />
+                    instruction to the people of the town, have suffered no diminution. It has been<br />
+                    our design to add steadily to its solid and </p>
+<p> 16</p>
+<p>permanent value, as well as to supply, to a reasonable extent, the demand for new<br />
+                    publications. Among the additions of the past year, have been Sparks' Edition of<br />
+                    the Works of Franklin, in ten octavo volumes ; the twenty-five volumes, which<br />
+                    make our set complete, of the British Essayists ; the new volumes of Little<br />
+                    "380026" Brown's edition of the British Poets ; Motley's History of the Dutch<br />
+                    Republic ; Sulley's Memoirs ; Dr. Kane's Arctic Expedition ; Lingard's History<br />
+                    of England ; Hudson's Edition of Shakespeare ; Grote's History of Greece ;<br />
+                    Wincklemann's History of AncientArt ; and Mr. Webster's Correspondence. A<br />
+                    valuable addition to our set of American State Papers was presented by Mr. Simon<br />
+                    Brown. The Committee have subscribed on behalf of the Library, for the great<br />
+                    work of Prof. Agassiz on the Natural History of America, which is to be<br />
+                    published in ten volumes at the price of twelve dollars a volume. The work will<br />
+                    be illustrated in the highest style of art, and it is expected that one volume a<br />
+                    year can be furnished until it is completed. The first volume is expected during<br />
+                    the present month.</p>
+<p> In conclusion, your Committee can but regret that the means at their command are<br />
+                    so limited ; and would renew their annual appeal to the liberality and public<br />
+                    spirit of individuals to do something to aid an institution so important to the<br />
+                    community. </p>
+<div class="table">
+<table class="table"><tr class="data"><td rowspan="1" colspan="1" class="data">E. R. HOAR, </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">R. W. EMERSON,</td>
+<td rowspan="1" colspan="1" class="data">Library</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">SIMON BROWN,</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">GEO. HEYWOOD, </td>
+<td rowspan="1" colspan="1" class="data">Committee</td>
+</tr></table></div>
+<p> CONCORD, MARCH 2, 1857. </p>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.7">
+<h2><span class="headingNumber">7. </span><span class="head">REPORT OF THE SUPERINTENDENT OF PUBLIC GROUNDS.</span></h2>
+<p>----</p>
+<p>During the past season, the head stones in both the old Burying Grounds, have<br />
+                    been carefully righted up, and firmly re-set erect. and cleansed of moss and<br />
+                    dirt, so as to be legible. This work. which proved greater than was anticipated,<br />
+                    has improved the appearance of these grounds materially, and brought to light<br />
+                    some older dates than were previously known to have existed. </p>
+<p>The West Centre School House lot, has been graded, and set out with evergreen and<br />
+                    other trees, and a beginning made toward furnishing some shade and protection to<br />
+                    this school house, which, like all the other school houses in town, has great<br />
+                    need of shelter from sun and wind. The square in front of the Town House has<br />
+                    been planted with large elm and other trees, carefully set out, and securely<br />
+                    boxed to protect them from injury. Some objections to these trees, as<br />
+                    obstructions to the travel, were raised when the work was first done, but no<br />
+                    accident or inconvenience has as yet occurred, and if permitted to grow, they<br />
+                    will prove a great comfort and ornament in this sandy and dusty place. </p>
+<p> It should be borne in mind that a full grown tree is never in the way, and if<br />
+                    there were more of them in our ways and public places, the town would be the<br />
+                    handsomer and the better. </p>
+<p>The hearse house has been removed from the East Burying Ground to the corner of<br />
+                    the Cemetery, where it is much more convenient of access, and answers the<br />
+                    purpose of a tool house, which was much wanted. The building has been painted<br />
+                    and fitted up, and is in a much better condition than the hearse contained in<br />
+                    it, which is too shabby for decency, and ought to be exchanged for a better one<br />
+                    immediately. </p>
+<div class="p">The other work including the usual care of the several public grounds,<br />
+                    sufficiently appears in the following account of expenditures :
+<ul><li class="item"> Paid Jonas Melvin, for work on gravestones and grounds, $38 63</li>
+<li class="item"> Wm. D. Brown, for work and trees at school-house, 18 77</li>
+<li class="item"> Anthony Wright, work setting out trees, "380026"c., 13 50</li>
+<li class="item"> Rufus Hosmer, moving hearse house, 15 00</li>
+<li class="item"> Albert Buttrick, for painting do., 13 37</li>
+<li class="item"> George L. Prescott, for lumber for tree boxes, 9 43</li>
+</ul></div>
+<p>3</p>
+<p>18</p>
+<div class="p">
+<ul><li class="item">Paid Moses Hobson, for work on tree boxes, 2 26</li>
+<li class="item">H. H. Buttrick, for white-washing do., 3 00</li>
+<li class="item">Samuel Staples, for lot of maple trees, 6 84</li>
+<li class="item">A. P. Gourgas, for lot of elm trees, 6 00</li>
+<li class="item">James Giles, for painting iron work, 1 75</li>
+<li class="item">Walcott "380026" Holden, for shovel and hoe, 1 33</li>
+<li class="item">----</li>
+<li class="item"> $129 88</li>
+</ul></div>
+<p> The balance of the appropriation will be needed to complete the new entrance to<br />
+                    the hill ground, a contract for which has been made.</p>
+<p> In concluding this, my eighth and last report, I may be allowed, for the first<br />
+                    time, a personal word. I cannot take leave of this office, which I have held<br />
+                    since its establishment by the town, without expressing my acknowledgments to my<br />
+                    fellow citizens for their cordial and cheerful support in all plans for the<br />
+                    improvement of their public grounds, and the unanimity of all their votes in<br />
+                    relation to this subject. If, in any of the works begun or finished, I have been<br />
+                    instrumental in adding to the beauty or usefulness of my native town, it has<br />
+                    been compensation more than enough for all the trouble and work of the<br />
+                    superintendence. In looking back to the changes that have been produced in eight<br />
+                    years in the appearance of the public grounds, I am proud and grateful to have<br />
+                    been permitted by the town to accomplish so much for its improvement. The iron<br />
+                    fence in front of the West Burying Ground, the removal of the engine house from<br />
+                    the Hill Ground, the new wall and gateway at the East Ground, the hedge at the<br />
+                    Battle Ground, and the shade and ornamental trees firmly rooted and growing well<br />
+                    on the Square in front of the county and town houses, are ornaments and<br />
+                    improvements that I do not believe the town would give up for many times their<br />
+                    cost There are further improvements that are quite as desirable, and I earnestly<br />
+                    hope that the town will continue the appropriation for many years to come, and<br />
+                    that, by other hands, it will be more judiciously and successfully expended. My<br />
+                    other engagements and duties will prevent my giving to it the time and care that<br />
+                    I should desire if I retained the office, and I have held it long enough to make<br />
+                    a change perhaps advantageous and desirable, and I therefore respectfully<br />
+                    decline a re-election. </p>
+<p>JOHN S. KEYES, <em>Superintendent.</em>
+                </p>
+<p>
+                    <em>Concord, March</em> 2, 1857. </p>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.8">
+<h2><span class="headingNumber">8. </span><span class="head">REPORT OF THE OVERSEERS OF THE POOR. </span></h2>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">RECEIPTS. </span>
+<ul><li class="item"> Received of the Treasurer, $700 00</li>
+<li class="item"> Received of State Pauper Account, 4 00</li>
+<li class="item"> ---$704 00</li>
+</ul></div>
+<p>----</p>
+<div class="p">
+                    <span class="listhead">EXPENDITURES.</span>
+<ul><li class="item"> Paid Deficiency, as per last Report, $15 59</li>
+<li class="item"> Eliza H. Gilson, support of Mrs. Bailey, 32 00</li>
+<li class="item">Provincetown, support of Haynes' children, 61 14</li>
+<li class="item"> City of Boston, for Martha Fletcher, 26 25</li>
+<li class="item"> Dr. Barrett's bill for sickness of Mrs. Brown, 13 75</li>
+<li class="item">City of Lynn, for support of E. Hook, 10 00</li>
+<li class="item">Jonas Melvin, buiral Lucy Robbins "380026" child, 6 75</li>
+<li class="item">J. Hosmer, wood furnished Fatima Robbins, 5 00</li>
+<li class="item">J. Reynolds, journey expense to Cambridge, 2 00</li>
+<li class="item">J. H. Bent, " " Boston, 1 20</li>
+<li class="item"> Assisting sundry persons, 1 60</li>
+<li class="item"> Postage, stationery, "380026"c., 1 25</li>
+<li class="item"> ---$176 53</li>
+<li class="item">EXPENSES AT THE FARM. </li>
+<li class="item"> Paid Geo. L. Prescott, shingles, $26 25</li>
+<li class="item"> Walcott "380026" Holden, nails, 2 37</li>
+<li class="item"> Shingling barn, 5 12</li>
+<li class="item"> P. Whelan, new stove, "380026"c., 20 67</li>
+<li class="item"> J. Hancock Bent, boards and joist, 10 05</li>
+<li class="item"> Jonas Melvin, burial fees, 6 50</li>
+<li class="item"> Jas. Adams, coffin and robe for Mrs. Wright, 4 75</li>
+<li class="item"> David Barnes, expense at Boston, 2 00</li>
+<li class="item"> Joseph Dakin, 447 00</li>
+<li class="item"> Cash on hand, 2 76</li>
+<li class="item"> ---$527 47</li>
+<li class="item"> ----</li>
+<li class="item"> $704 00</li>
+</ul></div>
+<p>20</p>
+<div class="p">
+<ul><li class="item">Due Joseph Dakin, April 1, 1857, $53 00</li>
+<li class="item">Cash on hand, $2 76</li>
+<li class="item">Due from Town of Acton, burial fees of Lucy Robbins and child, 6<br />
+                            75</li>
+<li class="item">---$9 51</li>
+<li class="item">----</li>
+<li class="item">Deficiency, $43 49</li>
+</ul></div>
+<p>Respectfully submitted, </p>
+<div class="table">
+<table class="table"><tr class="data"><td rowspan="1" colspan="1" class="data">JABEZ REYNOLDS,</td>
+<td rowspan="1" colspan="1" class="data">
+                            <em>Overseers</em>
+                        </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> J. HANCOCK BENT,</td>
+<td rowspan="1" colspan="1" class="data">
+                            <em>of the</em>
+                        </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> CYRUS PEIRCE,</td>
+<td rowspan="1" colspan="1" class="data">
+                            <em>Poor. </em>
+                        </td>
+</tr></table></div>
+<p><em>Concord, March</em> 2, 1857.</p>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.9">
+<h2><span class="headingNumber">9. </span><span class="head">MARRIAGES, BIRTHS AND DEATHS IN CONCORD, IN 1856.</span></h2>
+<p>----</p>
+<p>The following statement, taken from the records, shows the marriages, births and<br />
+                    deaths, in Concord, for the year 1856 :</p>
+<p> MARRIAGES.-- Whole number, 22. Of the parties 32 were inhabitants of Concord,<br />
+                    and 12 of other places ; 13 were born in Concord, 23 in other towns in the<br />
+                    State, and 8 in other places. Of the males, 20 were first marriages, 1 was a<br />
+                    second marriage and 1 a third. Of the females 21 were first marriages, and 1 a<br />
+                    second</p>
+<p> BIRTHS.-- Whole number, 47--males, 21 ; females, 26. Of the whole number, 22<br />
+                    were born of Irish parents. </p>
+<p>DEATHS.-- Whole number, 39--being 4 more than in 1855. Males, 19 ; females, 20.<br />
+                    Of the males, 7 were married, 11 unmarried, and 1 widower. Of the females, 3<br />
+                    were married, 12 unmarried, and 5 widows. </p>
+<p>Of these 39 persons, 27 were born in Concord, 7 in other towns in the State, and<br />
+                    5 in other places. </p>
+<p> Of the males over 15 years of age, there were 6 farmers, 2 lawyers, 1 carpenter<br />
+                    and 6 laborers. </p>
+<div class="table">
+<table class="table"><tr class="data"><td rowspan="1" colspan="1" class="data">Deaths between 90 and 100 years of age</td>
+<td rowspan="1" colspan="1" class="data">--males,0</td>
+<td rowspan="1" colspan="1" class="data"> -- females, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 80 and 90 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 1 </td>
+<td rowspan="1" colspan="1" class="data"> " 1 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 70 and 80 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 4 </td>
+<td rowspan="1" colspan="1" class="data"> " 5 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 60 and 70 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 2 </td>
+<td rowspan="1" colspan="1" class="data"> " 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 50 and 60 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 0 </td>
+<td rowspan="1" colspan="1" class="data"> " 2 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 40 and 50 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 4 </td>
+<td rowspan="1" colspan="1" class="data"> " 1 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 30 and 40 " " </td>
+<td rowspan="1" colspan="1" class="data">" 1 </td>
+<td rowspan="1" colspan="1" class="data"> " 0 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 20 and 30 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 2 </td>
+<td rowspan="1" colspan="1" class="data"> " 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 10 and 20 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 2 </td>
+<td rowspan="1" colspan="1" class="data"> " 3 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " 1 and 5 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 0 </td>
+<td rowspan="1" colspan="1" class="data"> " 3 </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> " under, 1 " " </td>
+<td rowspan="1" colspan="1" class="data"> " 3 </td>
+<td rowspan="1" colspan="1" class="data"> " 2</td>
+</tr></table></div>
+<p> Average of life, 41 7-8 years.</p>
+<div class="table">
+<table class="table"><tr class="data"><td rowspan="1" colspan="1" class="data">Deaths by Consumption, 7 </td>
+<td rowspan="1" colspan="1" class="data">Deaths by Apoplexy, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> " " Old Age, 6 </td>
+<td rowspan="1" colspan="1" class="data">" " Hernia, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " Disease of Heart, 2</td>
+<td rowspan="1" colspan="1" class="data"> " " Dropsy, 3</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " Cholera Infantum, 5 </td>
+<td rowspan="1" colspan="1" class="data"> " " Dysentery, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " Typhoid Fever, 2</td>
+<td rowspan="1" colspan="1" class="data"> " " Bilious Cholic, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> " " Scarlet Fever, 1</td>
+<td rowspan="1" colspan="1" class="data"> " " Accident, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> " " Delirium Tremens, 1</td>
+<td rowspan="1" colspan="1" class="data"> " " Child Birth, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " Schirrus of Stomach, 2</td>
+<td rowspan="1" colspan="1" class="data"> " " Palsy, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">" " Inflammation of lungs,1 </td>
+<td rowspan="1" colspan="1" class="data"> " " Fever, 1</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> " " Still Born, 1</td>
+<td rowspan="1" colspan="1" class="data"></td>
+</tr></table></div>
+<p> 22</p>
+<p> The names and ages of the persons who died in 1856 are as follows, viz:</p>
+<div class="table">
+<table class="table"><tr class="data"><td rowspan="1" colspan="1" class="data">Elisha Wheeler, 72 yrs. </td>
+<td rowspan="1" colspan="1" class="data">Mary O'Brien, 1 yr. 2 m.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Hannah M. Haynes, 6 m. 15 d. </td>
+<td rowspan="1" colspan="1" class="data"> Hannah Wright, 79 yrs.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Thomas Robbins, 46 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Charles W. Goodnow, 44 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">John Calahan, 42 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Francis Melvin, 18 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Sarah Wheeler, 78 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Sarah C. Hastings, 10 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Patrick O'Neil, 22 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Frances H. Wilde, 27 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Frederick Breed, 64 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> John Gleason, 27 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Jeanette E. Todd, 4 yrs. 6m.</td>
+<td rowspan="1" colspan="1" class="data"> Lewis Wetherbee, 67 yrs.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data"> Peter Dowd, still born,</td>
+<td rowspan="1" colspan="1" class="data"> Sarah Temple, 83 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Hepsibah Jones, 70 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Eliab Hayden, 31 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Sabrine Wheeler, 19 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Samuel Hoar, 78 yrs.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Perez Blood, 70 yrs.</td>
+<td rowspan="1" colspan="1" class="data"> Martha Robinson, 73 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Joseph Merriam, 88 yrs. 8 m. </td>
+<td rowspan="1" colspan="1" class="data"> Mary A Tozier, 1 m. 8 d.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">James H. Wilson, 4 d. </td>
+<td rowspan="1" colspan="1" class="data"> Honora Shannon, 42 yrs.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">John Henry Byron, 5 d. </td>
+<td rowspan="1" colspan="1" class="data"> Lucy Lee, 90 yrs. 7 m.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Patrick Moore, 40 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Elizabeth L. Brown, 1 yr. 3 m.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Eliza A. Barker, 50 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Jesse S. Richardson, 5 m. 17 d.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Eliza W. Melvin, 19 yrs. </td>
+<td rowspan="1" colspan="1" class="data"> Abigail Lawrence, 72 yrs. </td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Ann Holden, 66 yrs. 6 m. </td>
+<td rowspan="1" colspan="1" class="data"> Nathan M. Wright, 73 yrs. 7 m.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Almira Lawrence, 51 yrs. </td>
+<td rowspan="1" colspan="1" class="data"></td>
+</tr></table></div>
+<p> According to the United States Census of 1850, the deaths in 1856 were as 1 to<br />
+                    every 57 2-3. </p>
+<p>GEO. HEYWOOD, Town Clerk. </p>
+<p>Concord, Jan. 1, 1857.</p>
+</div>
+<div class="teidiv0" id="index.xml-body.1_div.10">
+<h2><span class="headingNumber">10. </span><span class="head">ANNUAL REPORTS OF THE SCHOOL COMMITTEE, AND OF THE SUPERINTENDENT OF PUBLIC<br />
+                    SCHOOLS, OF CONCORD, FOR THE YEAR ENDING APRIL 1, 1857.</span></h2>
+<p> BENJAMIN TOLMAN, PRINTER. </p>
+<p>----</p>
+<p> 1857. </p>
+<p>REPORT OF THE SCHOOL COMMITTEE, FOR THE YEAR ENDING APRIL 1, 1857.</p>
+<p>----</p>
+<p>The undersigned, having been previously chosen by their several districts as<br />
+                    Prudential Committee, were, by a vote of the town at its last April meeting,<br />
+                    elected as the School Committee of the town.</p>
+<p>Their first duty, under the instruction of the town, being the choice of a<br />
+                    Superintendent, they immediately met, and, after organizing by the choice of<br />
+                    John Brown, Jr., as chairman, proceeded to ballot for a Superintendent. They<br />
+                    made a unanimous choice of Rev. L. H. Angier for that office ; and he was<br />
+                    subsequently chosen as Secretary of the board. </p>
+<p>The year, we think, has been one of general improvement in the various schools,<br />
+                    while harmony and good feeling have existed between the different members of the<br />
+                    committee and the superintendent. </p>
+<p>The Special Committee, appointed at the March meeting, to consider the whole<br />
+                    subject of our schools, it is believed, will make such suggestions, and propose<br />
+                    such plans, as well, if adopted, most effectually remedy the evils hitherto<br />
+                    complained of, and furnish a more equal and satisfactory appointment of the<br />
+                    school money among the several districts. </p>
+<p>4</p>
+<p> We believe that the support of our schools should be recognized as of the first<br />
+                    importance, to be provided for as among the <em>necessary</em> expenses of<br />
+                    the town, and subject to no accident or contingency. And we further believe,<br />
+                    that, instead of the plan heretofore adopted of determining the length of the<br />
+                    schools by the amount of money raised, the best policy, the truest economy, and<br />
+                    the highest wisdom, alike would direct the reversing of that method, and that,<br />
+                    after determining, as nearly as possible, the best and most profitable terms of<br />
+                    time for the different schools to keep, we should, as a matter of course and of<br />
+                    necessity, raise an amount of money sufficient to support them during that time. </p>
+<p>It seems also to be desirable, that, as far as practicable, the terms of all<br />
+                    schools of a similar grade should be of uniform length, and a uniform price to<br />
+                    be paid to the several teachers. It is understood that these views substantially<br />
+                    are adopted and carried out in the plan to be submitted by the committee<br />
+                    specially appointed to report upon this subject. </p>
+<p>The subject of furnishing school rooms is beginning to recieve some of the<br />
+                    attention to which its importance entitles it. Instead of the blank and barren<br />
+                    surface of wood and mortar usually presented in school rooms, the eye of the<br />
+                    pupil should rest at every turn upon some map, diagram, or illustration of the<br />
+                    various subjects embraced in education, that he may thus constantly be receiving<br />
+                    impressions and lessons, silently and perhaps "unconsciously," but which may be<br />
+                    as valuable and abiding as those received in the more direct methods of<br />
+                    instruction. </p>
+<p>5</p>
+<p>In many of our schools this want is in part supplied. As we have the means and<br />
+                    opportunity, let us provide all these aids and embellishments, that our school<br />
+                    houses, which are all that the most cultivated taste could require, or the most<br />
+                    liberal hand could grant, may be full and complete in their furnishing, as they<br />
+                    are in their exterior. </p>
+<p>The supply of our High School is still quite deficient in this respect. Two or<br />
+                    three maps and a globe embrace the entire catalogue of its illustrative<br />
+                    properties. There is a very special want of a small appropriation to supply this<br />
+                    school with some philisophical apparatus. If not absolutely necessary to a<br />
+                    correct understanding of the subjects which it illustrates, it is a very great<br />
+                    aid to the student, and while it gives additional interest to the study, it<br />
+                    makes apparent and real what might have remained vague and indefinite. We<br />
+                    believe the school can no more afford to do without it than the farmer or<br />
+                    mechanic can afford to do without his improved implements and tools. We<br />
+                    therefore recommend that the sum of one hundred dollars be raised by the town,<br />
+                    to be expended, under the direction of the General Committee, in the purchase of<br />
+                    apparatus for the High School.</p>
+<p> The report of the Superintendent will indicate the particular condition of the<br />
+                    several schools. </p>
+<div class="table">
+<table class="table"><tr class="data"><td rowspan="1" colspan="1" class="data">JOHN BROWN, JR., </td>
+<td rowspan="1" colspan="1" class="data"></td>
+<td rowspan="1" colspan="1" class="data"> DARIUS J. HATCH,</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">JACOB B. FARMER,</td>
+<td rowspan="1" colspan="1" class="data">
+                            <em>Committee.</em>
+                        </td>
+<td rowspan="1" colspan="1" class="data"> H. K. TOZIER,</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">SAMUEL LEES, </td>
+<td rowspan="1" colspan="1" class="data"> </td>
+<td rowspan="1" colspan="1" class="data"> HIRAM W. JONES,</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">NATHAN BARRETT, </td>
+<td rowspan="1" colspan="1" class="data"></td>
+<td rowspan="1" colspan="1" class="data"></td>
+</tr></table></div>
+<p>REPORT OF THE SUPERINTENDENT. </p>
+<p>----</p>
+<p>TO THE SCHOOL COMMITTEE OF CONCORD :</p>
+<p>
+                    <em>Gentlemen,</em> ----</p>
+<p>As Superintendent of the Public Schools of Concord, an office which you did me<br />
+                    the honor to confer upon me at the commencement of your official term, I<br />
+                    herewith submit to you, as the statute requires, "a detailed report of the<br />
+                    condition" of our schools for the year ending April 1st, 1857.</p>
+<p>The importance of the trust with which you, gentlemen, have been charged by the<br />
+                    town, and the responsibilities which it devolves both upon yourselves and your<br />
+                    Superintendent, cannot be over-estimated. Of all the subjects which come<br />
+                    regularly before the citizens of the town for consideration and action at their<br />
+                    annual meeting for the transaction of town business, there is none, whose claims<br />
+                    to a thorough and dispassionate deliberation and a liberal provision, are to be<br />
+                    compared with those which the interests of our public schools present ;<br />
+                    interests, in which the hundreds of our children, dependent upon these schools<br />
+                    for their education, are deeply concerned. Would that we might catch the<br />
+                    inspiration of the enthusi-</p>
+<p>7</p>
+<p>asm and noble purpose of the Prussian School Councillor, Dinton, who said--"I<br />
+                    promised God that I would look upon every Prussian peasant child as a being who<br />
+                    could complain of me before God, if I did not provide him the best education as<br />
+                    a man and a christian which it was possible for me to provide."</p>
+<p>There is no subject of which the Commonwealth takes cognizance and over which, in<br />
+                    its legislative capacity, it exercises guardianship and control, of such vital<br />
+                    interest to the welfare of the State, as that of its Common School System. The<br />
+                    most voluminous and elaborate reports which are presented to the State<br />
+                    Legislature during its annual session, are those of the Board of Education and<br />
+                    of the Secretary of the Board--reports which should be in the hands of, and<br />
+                    carefully examined by, all school committees and teachers. </p>
+<p> As valuable as are our Colleges and Universities, and as important and<br />
+                    indispensable as they are to the pursuits of knowledge in the higher branches of<br />
+                    learning, and as powerful as is the acknowledged influence which they exert in<br />
+                    maintaining and elevating the character of what are called the "learned<br />
+                    professions," yet we think it no exaggeration to say that in a free government<br />
+                    like ours, a government determined and maintained by the people, the common<br />
+                    school system, as it is called,--a system which, in its benign provisions for<br />
+                    the intellectual and moral training of the young, regards equally the child of<br />
+                    the poorest as the child of the richest in the community, outranks them in<br />
+                    importance. Free institutions, such as our country boasts and which do not exist<br />
+                    to the same extent and in equal diffusion in any other nation </p>
+<p>8</p>
+<p>on the globe, demand as a condition of their stability, growth and perpetuity,<br />
+                    intelligence and virtue in the people. Without the presense and constant and<br />
+                    controling influence of these elements in a people who make their own laws and<br />
+                    appoint their executors, we can look neither for wisdom in the legislation of<br />
+                    the state, nor faithfulness and justice in the administration of its government<br />
+                    and laws. And let it be remembered that our free schools, more than our Colleges<br />
+                    and Universities, are the <em>sources of a nation's intelligence</em>. In<br />
+                    the former, our ministers and magistrates, our lawyers and legislators, our<br />
+                    jurists and presidents, commenced their education. Here, many men in our<br />
+                    country, who have risen to eminent usefulness and an honorable distinction,<br />
+                    received into their minds and hearts, from the hand of the teacher in the common<br />
+                    school, those seeds of intelligence, wisdom and virtue, which at length ripened<br />
+                    into a manhood that illustrates the history of our youthful republic, and the<br />
+                    wisdom and comprehensiveness of its fathers in making the fountains of<br />
+                    intelligence as free to all as the air we breathe. What interest then, we again<br />
+                    ask, does the town or the state take under its supervision and guardianship<br />
+                    which can compare in importance with its schools? What are commerce and<br />
+                    railroads, revenues and tariffs, telegraphs, armies, and navies, and all the<br />
+                    material interests of the state and nation combined, compared with the wise<br />
+                    training of the intellect and heart of the people. Upon the care which this<br />
+                    latter interest shall receive, more than upon any which can be bestowed upon the<br />
+                    most important of our material interests, will the stability and peace, the<br />
+                    growth and grandeur of this </p>
+<p> 9</p>
+<p>nation depend. Said Epicletus--"You will confer the greatest benefit on your<br />
+                    city, not by raising the roofs, but by exalting the souls of your fellow<br />
+                    citizens ; for it is better that great souls should live in small habitations<br />
+                    than that abject slaves should burrow in great houses." Had the author of this<br />
+                    sentiment, so just and so wise, lived in the United States in the nineteenth<br />
+                    century, instead of at Rome in the second, we doubt not he would have been a<br />
+                    warm friend and advocate of that system of education which seeks to embrace and<br />
+                    exalt the soul of every citizen of this great Republic. </p>
+<p>If these considerations, extended perhaps already to an unreasonable length, by<br />
+                    way of introduction, are just, is not the condition and character of our public<br />
+                    schools a matter of the highest importance? and may we not expect it will<br />
+                    receive, above all other matters of common interest which will come up to be<br />
+                    acted upon at the annual meeting, the most careful deliberation, the wisest<br />
+                    suggestions, and the most liberal provisions of the town in its municipal<br />
+                    capacity.</p>
+<p>When I consider the interest which the town has hitherto taken in its schools, as<br />
+                    manifested by the liberal and constantly increasing appropriations of money for<br />
+                    their maintenance, I feel assured that I shall have a patient hearing while I<br />
+                    proceed to give, somewhat in detail, an account of the schools for the past<br />
+                    year, and make such statements and suggestions in relation to them as may be<br />
+                    deemed necessary and proper to promote their best interests. </p>
+<p> 2</p>
+<p>10</p>
+<p> High School.</p>
+<p>MR HENRY CHASE, <em>Teacher.</em>
+                </p>
+<p>The ample recommendations, upon the strength of which this gentleman was<br />
+                    introduced to a former committee, and by them employed to take charge of this<br />
+                    school, and the high commendations which he received in the last annual report<br />
+                    of the school, after the trial of his capabilities for a single term, have been<br />
+                    fully sustained by the character and results of his labors during the past year.<br />
+                    From the observation which frequent visits to the school, and attendance upon<br />
+                    two examinations have enabled us to make, we have the most entire conviction of<br />
+                    his ability, faithfulness, and success as a teacher, and feel no hesitation in<br />
+                    saying, that, in our judgement, the order and discipline of the school have<br />
+                    never been more satisfactory, or the instruction more thorough. </p>
+<p> From our acquaintance with this school in former years, we were satisfied that<br />
+                    too many branches were undertaken at the same time, to insure that thoroughness<br />
+                    of study and mastery of principles on the part of the scholars, and that<br />
+                    attention from the teacher, which are so essential to thorough scholarship, and<br />
+                    to the maintenance of a high standard of excellence in the school. We entirely<br />
+                    concur in the views expressed by the former Superintendent in relation to this<br />
+                    subject. </p>
+<p> At the commencement of the year, the number of studies was somewhat reduced,<br />
+                    greatly, we think, to the advantage of the school. At the commencement of the<br />
+                    Winter term, French, which had been studied by a large number during the Summer<br />
+                    term,</p>
+<p>11</p>
+<p>was dropped, and Arithmetic taken up in its stead, and almost the entire school<br />
+                    subjected to a thorough drilling in this important branch. The necessity of<br />
+                    devoting so much time to this study would not have existed, and the progress of<br />
+                    the school been retarded thereby, had those coming from the Intermediate School,<br />
+                    and a few from the outer districts, been qualified agreeably to the specified<br />
+                    requirements. This is a subject which demands special consideration, and<br />
+                    we.shall invite your attention to it again when we come to speak of the<br />
+                    condition of the Intermediate School. The High School is intended to afford the<br />
+                    opportunity and means to those who wish to advance beyond the elements of a good<br />
+                    English education ; to pursue such studies as the Languages, the higher<br />
+                    Mathematics, the high departments of English Grammar, Chemistry, Natural and<br />
+                    Mental Philosophy, "380026"c. And in order to enter it, a thorough training in<br />
+                    the elementary studies should be demanded in the lower schools. Let this<br />
+                    position be maintained by the town and the effect will be to elevate the<br />
+                    standard not only of the High School, but of all the schools. </p>
+<p>At both examinations of this school, the scholars, with some few exceptions, did<br />
+                    themselves and their teacher much credit. The recitations in Algebra, Geometry<br />
+                    and Greek, at the first examination were excellent. Indeed, we marked them<br />
+                    perfect. We do not think the second examination equalled the first. The<br />
+                    recitation in Natural Philosophy, especially, fell short of our expectations.<br />
+                    During the Winter, there had been a good deal of irregularity in attendance ; a<br />
+                    circumstance always unfavorable to the </p>
+<p>12</p>
+<p> improvement of a school. We were sorry to learn that so many were absent from<br />
+                    the second examination who had been connected with the school during the Winter.<br />
+                    Such absence, unless for good reasons, looks suspicious, and reflects<br />
+                    unfavorably upon the absentees. An examination is seldom a terror to any but<br />
+                    delinquents.</p>
+<p> I cannot close my remarks upon this school without noticing the fact that,<br />
+                    during a great part of the year, Mrs. Chase has heard several recitations a<br />
+                    week, in which, it is believed, she has rendered an important service to the<br />
+                    school, and this service has been wholly gratuitous on her part. Such an amount<br />
+                    of unrecompensed labor as she has performed for the school, entitles her to the<br />
+                    gratitude of the community. </p>
+<p>CENTRE DISTRICT.</p>
+<p>JOHN BROWN, JR., <em>Prudential Committee.</em></p>
+<p>Intermediate School.</p>
+<p>This school was taught, the past year, by Miss Sarah C. Buttrick, of this town.<br />
+                    As Miss Buttrick entered upon her duties in this school with but a limited<br />
+                    experience as a teacher, and as our own experience in our official relation to<br />
+                    this school in former years had made us fully aware of the difficulties to be<br />
+                    encountered in teaching it, we had great misgivings as to her success, and many<br />
+                    fears that all would not be accomplished which ought to be expected from this<br />
+                    school. Miss Buttrick commenced her labors in the school with a good deal of<br />
+                    resoluteness, determined, if she accomplished nothing else, to bring it into a<br />
+                    quiet and orderly deportment. In this, we think her success was much</p>
+<p>13</p>
+<p>more marked than that of some of her predecessors. At both examinations, the<br />
+                    order and deportment of the school were highly satisfactory ; and such we found<br />
+                    to be the case, in a good degree, at our visits to it from time to time. There<br />
+                    was, in this particular, a very manifest improvement, which we think must be<br />
+                    attributed, in no small degree, to the firmness and great pains taken by the<br />
+                    teacher, and for which she deserves special commendation. But, in respect to the<br />
+                    improvement made in the different branches of study taught in this school, it<br />
+                    fell considerably below the standard which ought to be maintained, and which we<br />
+                    we have a right to look for in a school of this grade. This remark will apply<br />
+                    more particularly to the condition of the school during the first term. There<br />
+                    seemed to be a great lack of <em>thought</em>, of <em>application</em><br />
+                    and of <em>mental activity</em> ; as if the Intermediate School were not a<br />
+                    place for study, but a mere stepping-stone from the Primary to the High School.<br />
+                    The study in which, at the first examination, we noticed the greatest<br />
+                        deficiences (sic), was English Grammar. With few exceptions, the<br />
+                    classes appeared to know but little about it. In Arithmetic, they were some<br />
+                    better, but far from what might have been reasonably expected. </p>
+<p>At the second examination, on the 20th of March, the school appeared to better<br />
+                    advantage. There was a very marked improvement in Grammar, and in Arithmetic ;<br />
+                    and in Reading, the first class, especially, appeared remarkably well. More, and<br />
+                    special attention should be paid to Geography in this school, as but little or<br />
+                    no attention is given to it in the High School. On the whole, we were much<br />
+                    better</p>
+<p>14</p>
+<p>satisfied with the appearance of the school at the second examination that at the<br />
+                    first. The exercises evinced some waking up of thought, more application and<br />
+                    mental activity, and the school had made perceptible progress during the winter. </p>
+<p>But a sense of duty compels your Superintendent to say, that, after years of<br />
+                    experience and observation with regard to this school, he is fully persuaded<br />
+                    that it has failed to attain the rank which a school of this grade ought to<br />
+                    maintain. It is perfectly apparent that this school does not occupy the place in<br />
+                    the public confidence which the other schools in the Centre District do ;<br />
+                    whereas it ought to be second to none in character, as it is not in importance. </p>
+<p> Parents, in some instances--perhaps not a few--have preferred to retain their<br />
+                    children in the Primary Schools to sending them to the Intermediate, after they<br />
+                    were qualified to enter the latter ; or if their children entered it, they have<br />
+                    seemed disposed to rush them through with the utmost possible speed into the<br />
+                    High School ; an evil which, if not checked, must have a depressing<br />
+                    influence--and operate most unfavorably upon the character of the High School.<br />
+                    And some have chosen to fit their children for promotion to the High School<br />
+                    elsewhere. </p>
+<p>The rank of the Intermediate School is that which belongs to what are called<br />
+                    Grammar Schools. Now, it is expected and should be insisted upon, that, in these<br />
+                    schools, a complete and thorough knowledge of what are called the elementary<br />
+                    studies, should be acquired before a scholar can be promoted to the High School.<br />
+                    Let it be understood that he shall do something more than "go over" these<br />
+                    studies ; that </p>
+<p>15</p>
+<p>all who enter the Intermediate School will be required, before they can be<br />
+                    promoted to the High, to have a thorough knowledge of the principles of, and be<br />
+                    able to master anything in, the Common School Arithmetic ; that they have a good<br />
+                    knowledge of English Grammar and Geography. Let this be laid down as a rule, and<br />
+                    strictly adhered to, and it will not be long before we shall witness its<br />
+                    beneficial effects, not only in the Intermediate, but also in the High School.<br />
+                    The work of the Intermediate School should be done there, and not in the High<br />
+                    School. </p>
+<p>In order that these results may be reached, I am also persuaded that we must have<br />
+                    a teacher for the Intermediate School of larger experience, higher<br />
+                    qualifications, and a more thorough disciplinarian, than any we have had there<br />
+                    for years. This remark is not intended to disparage any one of those teachers. A<br />
+                    teacher may succeed very well in one school but not possess the requisite<br />
+                    qualifications for another. And our Intermediate School demands qualifications<br />
+                    of a high order. Schools of this grade in larger towns are, I believe, for the<br />
+                    most part, taught by masters. But, as our school is not as large as those<br />
+                    generally are, I believe a female teacher can be found of large experience, and<br />
+                    qualified in all other respects to do the work which the interests of this<br />
+                    school require. If such a teacher cannot be obtained at the present rate of<br />
+                    wages, let the compensation be increased sufficiently to secure the services of<br />
+                    the right person. </p>
+<p>I have dwelt at greater length in my remarks upon this school than I shall upon<br />
+                    any other, because I regard its condition as demanding more attention </p>
+<p>16</p>
+<p> than that of any other. I have pointed out what I consider the evil, and have<br />
+                    suggested what seems to be the remedy. Let something be done to elevate the<br />
+                    character of the Intermediate School. We pass to the</p>
+<p>PRIMARY SCHOOLS.</p>
+<p>----</p>
+<p>North Centre. </p>
+<p>The teacher of this school, Miss Susan Heard, of Wayland, devoted herself with<br />
+                    faithfulness to its interests, and her pupils, made very commendable progress in<br />
+                    their studies. In the exercises of the second examination there was a marked<br />
+                    improvement upon the first. In Reading, Spelling, Arithmetic, Geography and<br />
+                    History, several of the classes did themselves great credit. If Miss Heard had<br />
+                    united a little more firmness with her amiable disposition and manner, in<br />
+                    maintaining order, we think the school would have appeared to still better<br />
+                    advantage. This deficiency, however, was not apparent at the last examination.<br />
+                    We were much pleased with the neat appearance of the children and of the school<br />
+                    room, and were gratified also to see so many of the parents and friends of the<br />
+                    children present to witness their exercises. </p>
+<p> East Centre.</p>
+<p> This school was taught the first term by Miss Harriet Buttrick, who had taught<br />
+                    it in former years with a good degree of success. The exercises at the<br />
+                    examination in November, did not show that degree of improvement which we had<br />
+                    expected to witness. </p>
+<p> During the Winter term, the school was under the care of Miss Eliza Hosmer. At<br />
+                    our occasional visits</p>
+<p>17</p>
+<p> to the schools, we did not see that quiet and order which ought to be<br />
+                    maintained. At the examination of the school in March the deportment of the<br />
+                    children was entirely satisfactory, and the progress they had made in their<br />
+                    studies highly commendable. In Spelling, Arithmetic and Geography, some of the<br />
+                    classes appeared remarkably well. We think this school has suffered from the<br />
+                    frequent changing of teachers. </p>
+<p>West Centre. </p>
+<p>For the last two years, this school has been under the instruction of Miss Maria<br />
+                    D. Hosmer. We congratulate the children--and we congratulate the parents<br />
+                    also--on their having been so long favored with the valuable services of this<br />
+                    accomplished and successful teacher. It has always given us pleasure to visit<br />
+                    her school. The perfect neatness of the school-room, the good order,<br />
+                    sprightliness, promptness and thoroughness of the children in their recitations,<br />
+                    their excellent singing, "380026"c., realize our idea of a model school more<br />
+                    fully than any other of its grade with which we are acquainted. Each examination<br />
+                    showed great faithfulness on the part of the teacher in her efforts for the<br />
+                    intellectual and moral training of the children committed to her care, and the<br />
+                    highest satisfaction was manifested with regard to the appearance of the school<br />
+                    by the throng of visitors present. </p>
+<p>District No. 2. </p>
+<p>D. J. Hatch, <em>Prudential Committee.</em>
+                </p>
+<p>This school was taught during the Summer term by Miss Eliza Hosmer. In most of<br />
+                    the studies, the school made commendable progress during the </p>
+<p>3</p>
+<p>18</p>
+<p>first term, and the exercises of the examination at its close, particularly in<br />
+                    Arithmetic, Algebra and Geography, showed a good degree of application on the<br />
+                    part of the scholars, and accuracy on the part of their teacher. </p>
+<p>Miss Carrie H. Pratt, of this town, who taught the school the Winter term,<br />
+                    entered upon her duties with the determination, apparently, to do her best for<br />
+                    its welfare. In consequence of sickness among the children, and severe weather,<br />
+                    the school was suspended for a week or more, and when examined, at the close of<br />
+                    the term, it did not appear to have made that improvement which we had witnessed<br />
+                    on former occasions. </p>
+<p>District No. 3. </p>
+<p>H. K. TOZIER, <em>Prudential Committee.</em>
+                </p>
+<p>This school, which was taught the previous Winter by Miss Louisa B. Hunt, was<br />
+                    continued under her instruction till the close of the Summer term. At the<br />
+                    examination in November, the scholars, for the most part, showed that they had<br />
+                    applied themselves with commendable diligence to their studies, and that they<br />
+                    had been thoroughly taught. The school was not as quiet and orderly as it should<br />
+                    be. This was a noticeable deficiency. A little more energy and firmness would<br />
+                    add to the qualifications which Miss Hunt already possesses for a good teacher. </p>
+<p>The school during the Winter term was taught by Miss M. E. Parmenter of<br />
+                    Marlborough, who labored faithfully, and with much success, for its welfare.<br />
+                    There was a marked improvement in the quiet and good order of the school. The<br />
+                    Winter term closed the 20th of March. We can truly say that, at no</p>
+<p>19</p>
+<p> previous examination of this school, which we have attended, has its appearance,<br />
+                    in all respects, been more satisfactory. The exercises did the scholars great<br />
+                    credit, and also their teacher, who, as I am informed, was immediately engaged<br />
+                    to take the school the next term. There were too many studies pursued in the<br />
+                    school for its highest improvement. </p>
+<p>District No. 4. </p>
+<p>SAMUEL LEES, <em>Prudential Committee.</em>
+                </p>
+<p>Miss Maria Wetherbee, who taught this school during the Summer term, labored with<br />
+                    diligence and fidelity for the good of the school, and was quite successful. It<br />
+                    was evident from the exercises of the examination, at the close of the term,<br />
+                    that most of the scholars had made very good improvement. Their deportment was<br />
+                    excellent. </p>
+<p>The school, during the Winter term, was under the charge of Miss Charlotte A.<br />
+                    Litchfield, of Southbridge. Miss Litchfield applied herself to her work with<br />
+                    great diligence and zeal. She appeared to take a deep interest in the welfare of<br />
+                    all her pupils. But it was not long before the unruly spirit, which, in former<br />
+                    years, had disturbed the peace of the school, and added greatly to the labor of<br />
+                    governing and teaching it, began to reveal itself. The teacher, though actuated<br />
+                    by the kindest feelings, and exercising great forbearance, and, at first, trying<br />
+                    the effect of mild measures, was determined, at all events, to be mistress of<br />
+                    the school ; and when occasion called for it, she administered such punishment<br />
+                    as she deemed necessary for the maintenance of good order. At length, certain<br />
+                    boys, who had </p>
+<p> 20</p>
+<p>heretofore occasioned much trouble to teachers, proving themselves incorrigible,<br />
+                    were dimissed from the school--no new thing in this district. But,<br />
+                    notwithstanding these troubles, and gross misrepresentations calculated to<br />
+                    embarrass the teacher and injure the school, it was carried successfully through<br />
+                    ; and the exercises of the examination on the 27th of March elicited high<br />
+                    commendation. The performances of three classes in Arithmetic, showing accuracy<br />
+                    in teaching, and a thorough knowledge and ready application of rules and<br />
+                    principles, have not been surpassed by any other school in town. The deportment<br />
+                    of the scholars was unexceptionable. We think the teacher labored for her school<br />
+                    with conscientious fidelity and was greatly beloved by her pupils. Before the<br />
+                    school closed, she had the offer of it for the ensuing term. </p>
+<p>It is with deep regret that we have felt obliged to notice evils in this school<br />
+                    seriously effecting its interests, of which the School Reports for several years<br />
+                    past have made mention. One or two vicious or unruly boys in a school may do<br />
+                    much to interfere with the success of the most accomplished instructor ; and if<br />
+                    the parents and guardians of such children will no co-operate with the teacher<br />
+                    in the exercise of a wholesome discipline, and such children cannot be<br />
+                    restrained from damaging the interests of the school, they should be excluded<br />
+                    from its privileges. </p>
+<p> District No. 5,</p>
+<p>JACOB B. FARMER, <em>Prudential Committee.</em>
+                </p>
+<p>Miss Mary H. Wood took charge of this school for the Summer term. Several of the<br />
+                    classes appeared</p>
+<p> 21</p>
+<p>very well at the examination, and their improvement, we doubt not, would have<br />
+                    been still greater had not the labors of their teacher been interrupted for<br />
+                    awhile by sickness. </p>
+<p> The school, during the winter term, was taught by Mr. James O. Scripture, a<br />
+                    member of Dartmouth College. Mr. Scripture is a fine scholar, and appeared to<br />
+                    take a deep interest in the welfare of his school. Those studying the higher<br />
+                    branches, Algebra, Geometry and Trigonometry, made very great improvement. Those<br />
+                    in the school less advanced--and they compromised the majority--did not make as<br />
+                    good progress as the others. </p>
+<p>Mr. Scripture's scholars appeared to be attached to him ; and, as an additional<br />
+                    evidence of the interest which he took in their welfare, it gives us pleasure to<br />
+                    state that he established and maintained a weekly exercise in the evening for<br />
+                    the study of the Bible. This was attended by nearly all of the members of the<br />
+                    school, who appeared to take a lively interest in the exercise, and were, we<br />
+                    believe, greatly profited by it. Such an evidence of a teacher's interest in the<br />
+                    moral welfare of his pupils is worthy of high commendation. </p>
+<p> District No. 6. </p>
+<p>LEWIS WETHERBEE, <em>Prudential Committee.</em>
+                </p>
+<p>Mr. Wetherbee died in the autumn, and Mr. Hiram W. Jones was appointed by the<br />
+                    District to fill his place. </p>
+<p> The school, during the Summer term, was under the care of Miss Sarah Jane<br />
+                    Wetherbee, who was faithful to her trust and did well for the School, </p>
+<p> 22</p>
+<p>as was evident from the exercises of the examination at its close in September.<br />
+                    The school made great improvement, considering the time it kept, which was not<br />
+                    so long by several weeks as most of the schools in town. </p>
+<p>At the commencement of the Winter term, the school passed into the hands of Miss<br />
+                    Charlotte Gorham, of Billerica. Miss Gorham gained the confidence and affections<br />
+                    of her pupils, and under her instructions, they made good progress in their<br />
+                    studies. The writing books in this school showed a greater degree of improvement<br />
+                    in this branch than we noticed in any other school in town. At the close of the<br />
+                    examination, the numerous visitors were entertained by several speeches, well<br />
+                    delivered. Miss Gorham gave very general satisfaction. If she could add a little<br />
+                    more energy to her amiable disposition and modest manner, we think it would tend<br />
+                    to increase her usefulness as a teacher. </p>
+<p>District No. 7. </p>
+<p>NATHAN BARRETT, <em>Prudential Committee,</em>
+                </p>
+<p>This school, during the year, was taught by Miss Jane Hosmer, and did well under<br />
+                    her care. The improvement evinced at the first examination was highly<br />
+                    commendable. One class in Reading, several in Arithmetic, and one in Geography,<br />
+                    appeared remarkably well. We do not think the improvement of the second term<br />
+                    equalled that of the first. We congratulate the children of this District on the<br />
+                    prospect of having a better school-room sometime during the year. </p>
+<p> 23</p>
+<p>I have thus, in compliance with the statute, made "a detailed report of the<br />
+                    several Public Schools" in town. I have already occupied more space than I<br />
+                    intended, and will therefore conclude with a very few "suggestions."</p>
+<p> School Registers. </p>
+<p> In a few of the Registers, we have detected errors and deficiences which show a<br />
+                    want of strict attention and accuracy in keeping them. The Register must be<br />
+                    "properly filled up and completed, and be deposited with the School Committee,<br />
+                    or with such person as they may designate to receive it," before a "teacher is<br />
+                    entitled to receive any payment for his or her services." </p>
+<p> Books. </p>
+<p>But few changes have been made in school books the past year. Greenleaf's<br />
+                    National Arithmetic has been introduced into the High School; and we think it<br />
+                    would be an advantage to the schools throughout the town to substitute this, or<br />
+                    Greenleaf's Common School Arithmetic, in place of Adams'.</p>
+<p>Female Teachers. </p>
+<p>Our observations in the schools, in years past, had led us to adopt the opinion,<br />
+                    that their interest, with the exception of the High School, would be best<br />
+                    promoted by employing well qualified female teachers. Our experience the past<br />
+                    year has tended only to confirm this opinion. </p>
+<p> In the last Annual Report of the Secretary of the Board of Education, he<br />
+                    remarks--"There has been a growing and well-grounded belief that the training of<br />
+                    children in the primary and common district </p>
+<p> 24</p>
+<p> schools may be best confided to females." We think that all the outer districts<br />
+                    of the town may obtain female teachers equal to the wants of their schools for<br />
+                    from thirty to fifty dollars a term less than it would cost to employ a man ;<br />
+                    and that the improvement of the largest number in the schools would be best<br />
+                    advanced by so doing. And this leads us to remark that the</p>
+<p> Character and Qualifications of Teachers</p>
+<p> Are if the very first importance, and should be so regarded by all whose duty it<br />
+                    is to engage them. The statute makes it obligatory upon the Prudential Committee<br />
+                    "to ascertain whatever, by diligent and careful inquiry, he can respecting the<br />
+                    moral character of the candidate he presents, his previous history, and his<br />
+                    success as a teacher, if he has ever taught school before, and what means he has<br />
+                    taken to qualify himself for teaching." The neglect of the duty here enjoined<br />
+                    may sometimes place the Committee, to whom the candidate for examination is<br />
+                    presented, in a very delicate and trying position. Let this hint suffice. </p>
+<p> The statute expressly says--"It shall be the duty of all Preceptors and Teachers<br />
+                    of Academies, and all other instructors of youth, to exert their best endeavors<br />
+                    to impress on the minds of children and youth committed to their care and<br />
+                    instruction, the principles of piety, justice and a sacred regard to truth, love<br />
+                    to their country, humanity, and universal benevolence," "380026"c. Hence, it is<br />
+                    evident that the greatest care should be exercised in selecting teachers, and<br />
+                    that a great responsibility rests upon the <em>Prudential</em>, as well as<br />
+                    the Superintending Committee. </p>
+<p> 25</p>
+<p> Thanking you, gentlemen, for your courtesy and counsel in our official<br />
+                    relations, and congratulating you and the town upon the encouraging prospects of<br />
+                    our schools, and devoutly recognizing the favor of a benign Providence towards<br />
+                    them, I submit this report. </p>
+<p> Respectfully, </p>
+<p> L. H. ANGIER,</p>
+<p>
+                    <em>Superintendent of Public Schools</em>. </p>
+<div class="table">
+<table class="table"><tr class="label"><td rowspan="1" colspan="1" class="data">NAMES OF TEACHERS.</td>
+<td rowspan="1" colspan="1" class="data">No. of the School.</td>
+<td rowspan="1" colspan="1" class="data">Whole No. SUMMER</td>
+<td rowspan="1" colspan="1" class="data">WINTER.</td>
+<td rowspan="1" colspan="1" class="data">Average Attendance. SUMMER.</td>
+<td rowspan="1" colspan="1" class="data">WINTER.</td>
+<td rowspan="1" colspan="1" class="data">Whole No. of Scholars.</td>
+<td rowspan="1" colspan="1" class="data">No. Between 5 and 15.</td>
+<td rowspan="1" colspan="1" class="data">Wages per Month. SUMMER.</td>
+<td rowspan="1" colspan="1" class="data">WINTER.</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Henry Chase,</td>
+<td rowspan="1" colspan="1" class="data">High.</td>
+<td rowspan="1" colspan="1" class="data">49</td>
+<td rowspan="1" colspan="1" class="data">55</td>
+<td rowspan="1" colspan="1" class="data">41</td>
+<td rowspan="1" colspan="1" class="data">50</td>
+<td rowspan="1" colspan="1" class="data">55</td>
+<td rowspan="1" colspan="1" class="data">29</td>
+<td rowspan="1" colspan="1" class="data">$800</td>
+<td rowspan="1" colspan="1" class="data">per year</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Sarah C. Buttrick,</td>
+<td rowspan="1" colspan="1" class="data">Inter.</td>
+<td rowspan="1" colspan="1" class="data">55</td>
+<td rowspan="1" colspan="1" class="data">42</td>
+<td rowspan="1" colspan="1" class="data">37 132-135</td>
+<td rowspan="1" colspan="1" class="data">36 33-80</td>
+<td rowspan="1" colspan="1" class="data">55</td>
+<td rowspan="1" colspan="1" class="data">53</td>
+<td rowspan="1" colspan="1" class="data">$24</td>
+<td rowspan="1" colspan="1" class="data">$24</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Susan Heard,</td>
+<td rowspan="1" colspan="1" class="data">N.C.</td>
+<td rowspan="1" colspan="1" class="data">43</td>
+<td rowspan="1" colspan="1" class="data">45</td>
+<td rowspan="1" colspan="1" class="data">39</td>
+<td rowspan="1" colspan="1" class="data">36</td>
+<td rowspan="1" colspan="1" class="data">45</td>
+<td rowspan="1" colspan="1" class="data">40</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Harriette Buttrick, Eliza Hosmer.</td>
+<td rowspan="1" colspan="1" class="data">E.C.</td>
+<td rowspan="1" colspan="1" class="data">43</td>
+<td rowspan="1" colspan="1" class="data">40</td>
+<td rowspan="1" colspan="1" class="data">40</td>
+<td rowspan="1" colspan="1" class="data">33</td>
+<td rowspan="1" colspan="1" class="data">43</td>
+<td rowspan="1" colspan="1" class="data">34</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Maria D. Hosmer,</td>
+<td rowspan="1" colspan="1" class="data">W.C.</td>
+<td rowspan="1" colspan="1" class="data">79</td>
+<td rowspan="1" colspan="1" class="data">56</td>
+<td rowspan="1" colspan="1" class="data">53 1-2</td>
+<td rowspan="1" colspan="1" class="data">45 7-10</td>
+<td rowspan="1" colspan="1" class="data">79</td>
+<td rowspan="1" colspan="1" class="data">70</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Eliza Hosmer, Carrie Hayden Pratt,</td>
+<td rowspan="1" colspan="1" class="data">No. 2.</td>
+<td rowspan="1" colspan="1" class="data">22</td>
+<td rowspan="1" colspan="1" class="data">24</td>
+<td rowspan="1" colspan="1" class="data">17</td>
+<td rowspan="1" colspan="1" class="data">23</td>
+<td rowspan="1" colspan="1" class="data">24</td>
+<td rowspan="1" colspan="1" class="data">24</td>
+<td rowspan="1" colspan="1" class="data">$22</td>
+<td rowspan="1" colspan="1" class="data">$20</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Louisa B. Hunt, M.F. Parmenter,</td>
+<td rowspan="1" colspan="1" class="data">No. 3.</td>
+<td rowspan="1" colspan="1" class="data">29</td>
+<td rowspan="1" colspan="1" class="data">23</td>
+<td rowspan="1" colspan="1" class="data">20 2-5</td>
+<td rowspan="1" colspan="1" class="data">19 1-5</td>
+<td rowspan="1" colspan="1" class="data">29</td>
+<td rowspan="1" colspan="1" class="data">22</td>
+<td rowspan="1" colspan="1" class="data">$22</td>
+<td rowspan="1" colspan="1" class="data">$22</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Maria Wetherbee, Charlotte A. Litchfield.</td>
+<td rowspan="1" colspan="1" class="data">No. 4.</td>
+<td rowspan="1" colspan="1" class="data">41</td>
+<td rowspan="1" colspan="1" class="data">43</td>
+<td rowspan="1" colspan="1" class="data">29 7-80</td>
+<td rowspan="1" colspan="1" class="data">30 23-83</td>
+<td rowspan="1" colspan="1" class="data">43</td>
+<td rowspan="1" colspan="1" class="data">30</td>
+<td rowspan="1" colspan="1" class="data">$21</td>
+<td rowspan="1" colspan="1" class="data">$26</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Mary H. Wood, James O. Scripture.</td>
+<td rowspan="1" colspan="1" class="data">No. 5.</td>
+<td rowspan="1" colspan="1" class="data">22</td>
+<td rowspan="1" colspan="1" class="data">26</td>
+<td rowspan="1" colspan="1" class="data">13</td>
+<td rowspan="1" colspan="1" class="data">20</td>
+<td rowspan="1" colspan="1" class="data">26</td>
+<td rowspan="1" colspan="1" class="data">21</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+<td rowspan="1" colspan="1" class="data">$40</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Sarah J. Wetherbee, Charlotte Gorham,</td>
+<td rowspan="1" colspan="1" class="data">No. 6.</td>
+<td rowspan="1" colspan="1" class="data">21</td>
+<td rowspan="1" colspan="1" class="data">32</td>
+<td rowspan="1" colspan="1" class="data">16 9-82</td>
+<td rowspan="1" colspan="1" class="data">29</td>
+<td rowspan="1" colspan="1" class="data">32</td>
+<td rowspan="1" colspan="1" class="data">25</td>
+<td rowspan="1" colspan="1" class="data">$19</td>
+<td rowspan="1" colspan="1" class="data">$24</td>
+</tr><tr class="data"><td rowspan="1" colspan="1" class="data">Jane Hosmer,</td>
+<td rowspan="1" colspan="1" class="data">No. 7.</td>
+<td rowspan="1" colspan="1" class="data">18</td>
+<td rowspan="1" colspan="1" class="data">19</td>
+<td rowspan="1" colspan="1" class="data">13</td>
+<td rowspan="1" colspan="1" class="data">13</td>
+<td rowspan="1" colspan="1" class="data">19</td>
+<td rowspan="1" colspan="1" class="data">12</td>
+<td rowspan="1" colspan="1" class="data">$18</td>
+<td rowspan="1" colspan="1" class="data">$24</td>
+</tr></table></div>
+<p><span class="pagebreak" id="index.xml-pb-d26e2308"> [Page 48] </span></p></div>
+<div class="stdfooter">
+<div class="footer"><a class="plain" href="http://www.tei-c.org/">Parent Institution</a> | <a class="plain" href="http://www.tei-c.org/">TEI</a>| <a class="plain" href="http://www.google.com">Search</a> | <a class="plain" href="mailto:feedback">Feedback</a></div>
+<address> Various.<br />
+      Date: 2007<br />This page is copyrighted
+<!--
+	  Generated from index.xml using an XSLT version 2.0 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/
+	  processed using Saxonica
+	  on 2013-06-13T18:25:17Z--></address>
+</div>
+<p></p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+    	  
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside">
+    
+        <div class="footer-area first">
+          <div class="region region-footer-first">
+    <div id="block-user-login" class="block block-user">
+
+<h2>User login</h2>
+
+<div class="content">
+<form action="/content/march-3-1856-march-2-1857?destination=node/40" method="post" id="user-login-form" accept-charset="UTF-8"><div><div id="edit-cas-login-redirection-message" class="form-item form-type-item">
+ You will be redirected to the secure CAS login page.
+</div>
+<div class="form-item form-type-checkbox form-item-cas-identifier">
+ <input type="checkbox" id="edit-cas-identifier" name="cas_identifier" value="1" checked="checked" class="form-checkbox" />  <label class="option" for="edit-cas-identifier">Log in using CAS </label>
+
+<div class="description">You will be redirected to the secure CAS login page.</div>
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form--HUdC6KqvwfIbHTnQZgtD-l5InMavSP11-yCISlREFQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="cas.return_to" value="node/40" />
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div><div class="item-list"><ul class="cas-links"><li class="cas-link first"><a href="/%23">Log in using CAS</a></li>
+<li class="uncas-link last"><a href="/%23">Cancel CAS login</a></li>
+</ul></div></div></form></div>
+</div>  </div>
+        </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area second">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area third">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+	<!-- #footer-bottom-inside -->    
+    <div id="footer-bottom-inside">
+    	<!-- #footer-bottom-inside-left --> 
+    	<div id="footer-bottom-left">
+        
+                        
+              <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+
+<div class="content">
+<span>Powered by <a href="https://www.drupal.org">Drupal</a></span></div>
+</div>  </div>
+            
+        </div>
+        <!-- #footer-bottom-inside-right -->
+        <div id="footer-bottom-right">
+        
+        	  <div class="region region-footer-bottom-right">
+    <div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/content/march-3-1856-march-2-1857" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="image" id="edit-submit--2" name="submit" src="/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-8QomlbBGhDBXZVTC51iZK8WXVAVRPEfzj-6nYZkHGe4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div>  </div>
+        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+
+</div><!-- EOF: #footer -->  </body>
+</html>
